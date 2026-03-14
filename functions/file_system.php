@@ -89,7 +89,7 @@ function upload_file(array $file_array): string|bool
         // نرجع المسار النسبي الذي سيستخدم في ملفات الـ views
         return '../uploads/products/' . $new_file_name; 
     }
-
+    // في حالة الفشل، نرجع false
     return false;
 }
 
