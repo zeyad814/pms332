@@ -1,0 +1,80 @@
+[
+    {
+        "id": "order_692f143ebb2dc",
+        "user_id": "user_692731f920917",
+        "customer_info": {
+            "name": "lmaza",
+            "email": "admin@example.com",
+            "address": "lmaza",
+            "phone": "01234567899",
+            "notes": "uuuu"
+        },
+        "items": [
+            {
+                "id": "prod_692f135e6d17e",
+                "name": "lmaza",
+                "price": 108,
+                "quantity": 1,
+                "image": "..\/uploads\/products\/img_692f135e6c93c.jpg"
+            }
+        ],
+        "total": 108,
+        "date": "2025-12-02 16:30:54"
+    },
+    {
+        "id": "order_693b3f615a82d",
+        "user_id": "Guest",
+        "customer_info": {
+            "name": "Holmes Bentley",
+            "email": "hyvyju@mailinator.com",
+            "address": "Dignissimos amet ea",
+            "phone": "97",
+            "notes": "Vel vel voluptate no"
+        },
+        "items": [
+            {
+                "id": 3,
+                "name": "Sale Item",
+                "price": 25,
+                "qty": 1
+            },
+            {
+                "id": 10,
+                "name": "Popular Item",
+                "price": 40,
+                "qty": 1
+            },
+            {
+                "id": "prod_692f135e6d17e",
+                "name": "lmaza",
+                "price": 108,
+                "quantity": 1,
+                "image": "..\/uploads\/products\/img_692f135e6c93c.jpg"
+            }
+        ],
+        "total": 108,
+        "date": "2025-12-11 22:02:09"
+    },
+    {
+        "id": "order_693b3f7112af8",
+        "user_id": "Guest",
+        "customer_info": {
+            "name": "Molly Jordan",
+            "email": "xuqyhenaga@mailinator.com",
+            "address": "Omnis nostrud adipis",
+            "phone": "93",
+            "notes": "Accusamus dolore con"
+        },
+        "items": [
+            {
+                "id": "prod_692f135e6d17e",
+                "name": "lmaza",
+                "price": 108,
+                "quantity": 1,
+                "image": "..\/uploads\/products\/img_692f135e6c93c.jpg"
+            }
+        ],
+        "total": 108,
+        "date": "2025-12-11 22:02:25"
+    }
+]
